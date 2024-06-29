@@ -1,5 +1,5 @@
 #Text Editor:
-This project is a text editor implemented using Java, leveraging data structures like stack and queue. It supports multiple functionalities including inserting text, inserting text at a specific index, deleting characters, cutting characters, and pasting cut characters at a current index.
+This project is a text editor implemented using Java, leveraging data structures like stack, queue, LinkedList and ArrayList. It supports multiple functionalities including inserting text, inserting text at a specific index, deleting characters, cutting characters, and pasting cut characters at a current index.
 
 #Features:
 - Insert Text: Allows the user to insert text at a specified index.
