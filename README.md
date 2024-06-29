@@ -1,7 +1,7 @@
-#Text Editor
+#Text Editor:
 This project is a text editor implemented using Java, leveraging data structures like stack and queue. It supports multiple functionalities including inserting text, inserting text at a specific index, deleting characters, cutting characters, and pasting cut characters at a current index.
 
-#Features
+#Features:
 - Insert Text: Allows the user to insert text at a specified index.
 - Delete Characters: Allows the user to delete a specified number of characters from the end.
 - Print Text: Displays the current text.
@@ -9,7 +9,7 @@ This project is a text editor implemented using Java, leveraging data structures
 - Cut Characters: Allows the user to cut a specified number of characters from the end and store them in a clipboard.
 - Paste Characters: Allows the user to paste the characters stored in the clipboard at a specified index.
 
-#Algorithms Used
+#Algorithms Used:
 - Stack: Used to implement undo functionality, allowing the user to revert to previous states.
 - Queue: Used for handling cut and paste operations, allowing the user to store and retrieve cut text.
 
@@ -31,9 +31,9 @@ Specify the number of characters to cut from the end of the text.
 Enter 6 to paste the last cut text.
 Provide the index at which to paste the text.
 
-#Contributing
+#Contributing:
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements, bug fixes, or documentation improvements.
 
-#Acknowledgements
+#Acknowledgements:
 Stack Data Structure
 Queue Data Structure
