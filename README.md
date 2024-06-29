@@ -10,8 +10,10 @@ This project is a text editor implemented using Java, leveraging data structures
 - Paste Characters: Allows the user to paste the characters stored in the clipboard at a specified index.
 
 #Algorithms Used:
-- Stack: Used to implement undo functionality, allowing the user to revert to previous states.
-- Queue: Used for handling cut and paste operations, allowing the user to store and retrieve cut text.
+- Stack: Implemented as "CustomStack",  Used to implement undo functionality, allowing the user to revert to previous states.
+- Queue: Implemented as "CustomQueue", Used for handling cut and paste operations, allowing the user to store and retrieve cut text.
+- LinkedList: Implemented as "CustomLinkedList", used for dynamic insertion and deletion of elements.
+- ArrayList: Implemented as "CustomArrayList", used for dynamic array operations with efficient random access.
 
 #Here's how you can use the different functionalities of the text editor:
 - Insert Text:
